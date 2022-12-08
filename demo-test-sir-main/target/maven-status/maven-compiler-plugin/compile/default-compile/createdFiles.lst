@@ -1,0 +1,7 @@
+com\sn\sir\dematest\Calculator.class
+com\sn\sir\dematest\DemaTestApplication.class
+com\sn\sir\dematest\controller\PersonController.class
+com\sn\sir\dematest\repository\PersonRepository.class
+com\sn\sir\dematest\service\PersonServiceImpl.class
+com\sn\sir\dematest\service\PersonService.class
+com\sn\sir\dematest\model\Person.class

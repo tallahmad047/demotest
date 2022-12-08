@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sn.sir.dematest.DemaTestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.351 s - in com.sn.sir.dematest.DemaTestApplicationTests
